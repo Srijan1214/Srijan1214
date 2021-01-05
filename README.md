@@ -22,13 +22,12 @@ https://play.google.com/store/apps/details?id=com.srijantapingthecircles.game
 I have had years of experience in many programming languages and have studied many programming paradigms. My strongest language is C++, close is Python.
   
 ## My Motivations for Graduate School:
-<br>
 I am currently really interested in pursuing graduate school and doing research in the field of Artificial Intelligence. Below are the projects I would like for you to take a look at if you want to see what I have done in this field.
 - https://github.com/Srijan1214/Chess-Web-Platform-With-AI
 - https://github.com/Srijan1214/Chess-ResNet-Move-Recommender
 - https://github.com/Srijan1214/Neural-Network--Digit-Recognition
 
-**Languages and Tools:**  
+## Languages and Tools:
 
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/vue/vue.png"></code>
