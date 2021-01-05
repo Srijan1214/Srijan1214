@@ -23,6 +23,9 @@ I have had years of experience in many programming languages and have studied ma
 **If are coming from graduate school:**
 <br>
 I am currently really interested in pursuing graduate school and doing research in the field of Artificial Intelligence. Below are the projects I would like for you to take a look at if you want to see what I have done in this field.
+- https://github.com/Srijan1214/Chess-Web-Platform-With-AI
+- https://github.com/Srijan1214/Chess-ResNet-Move-Recommender
+- https://github.com/Srijan1214/Neural-Network--Digit-Recognition
 
 **Languages and Tools:**  
 
