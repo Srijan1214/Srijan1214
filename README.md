@@ -1,4 +1,4 @@
-### Hello there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
+## Hello there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 <!-- <a href="https://twitter.com/abhisheknaiidu">
   <img align="left" alt="Srijan's | Twitter" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
 </a> -->
@@ -13,14 +13,15 @@
 <br>
 <img alt="GIF" src="https://github.com/Srijan1214/Srijan1214/blob/main/programming.gif?raw=true" height="200" />
 
-- Hi, I'm Srijan Joshi, a computer science major to finishing my undergraduate degree in May 2021. I am also minoring in mathematics.
+## About MySelf
+Hi, I'm Srijan Joshi, a computer science major to finishing my undergraduate degree in May 2021. I am also minoring in mathematics.
 <br>
-- I have been programming since my early teenage years and published my first PlayStore app in 2016, when I was 16 years old.
+I have been programming since my early teenage years and published my first PlayStore app in 2016, when I was 16 years old.
 https://play.google.com/store/apps/details?id=com.srijantapingthecircles.game
 <br>
 I have had years of experience in many programming languages and have studied many programming paradigms. My strongest language is C++, close is Python.
   
-**If are coming from graduate school:**
+## My Motivations for Graduate School:
 <br>
 I am currently really interested in pursuing graduate school and doing research in the field of Artificial Intelligence. Below are the projects I would like for you to take a look at if you want to see what I have done in this field.
 - https://github.com/Srijan1214/Chess-Web-Platform-With-AI
